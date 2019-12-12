@@ -1,4 +1,4 @@
-variable "cluster_name" {
+variable "gke_cluster_name" {
   description = "Cluster name"
   default     = "cluster-gke-de-variable"
 }
